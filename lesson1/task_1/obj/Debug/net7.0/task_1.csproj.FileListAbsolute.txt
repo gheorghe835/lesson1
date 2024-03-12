@@ -1,0 +1,14 @@
+E:\PROGRAMAREA\GIT\lesson1\task_1\bin\Debug\net7.0\task_1.exe
+E:\PROGRAMAREA\GIT\lesson1\task_1\bin\Debug\net7.0\task_1.deps.json
+E:\PROGRAMAREA\GIT\lesson1\task_1\bin\Debug\net7.0\task_1.runtimeconfig.json
+E:\PROGRAMAREA\GIT\lesson1\task_1\bin\Debug\net7.0\task_1.dll
+E:\PROGRAMAREA\GIT\lesson1\task_1\bin\Debug\net7.0\task_1.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.AssemblyInfoInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.AssemblyInfo.cs
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.csproj.CoreCompileInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.dll
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\refint\task_1.dll
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
+E:\PROGRAMAREA\GIT\lesson1\task_1\obj\Debug\net7.0\ref\task_1.dll
