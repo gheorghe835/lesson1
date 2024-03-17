@@ -1,0 +1,15 @@
+E:\PROGRAMAREA\GIT\lesson1\task_02\bin\Debug\net8.0\task_02.exe
+E:\PROGRAMAREA\GIT\lesson1\task_02\bin\Debug\net8.0\task_02.deps.json
+E:\PROGRAMAREA\GIT\lesson1\task_02\bin\Debug\net8.0\task_02.runtimeconfig.json
+E:\PROGRAMAREA\GIT\lesson1\task_02\bin\Debug\net8.0\task_02.dll
+E:\PROGRAMAREA\GIT\lesson1\task_02\bin\Debug\net8.0\task_02.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.AssemblyInfoInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.AssemblyInfo.cs
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.csproj.CoreCompileInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.sourcelink.json
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.dll
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\refint\task_02.dll
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\task_02.genruntimeconfig.cache
+E:\PROGRAMAREA\GIT\lesson1\task_02\obj\Debug\net8.0\ref\task_02.dll
