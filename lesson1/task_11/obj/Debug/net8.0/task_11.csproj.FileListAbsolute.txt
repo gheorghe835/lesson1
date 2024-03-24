@@ -1,0 +1,15 @@
+E:\PROGRAMAREA\GIT\lesson1\task_11\bin\Debug\net8.0\task_11.exe
+E:\PROGRAMAREA\GIT\lesson1\task_11\bin\Debug\net8.0\task_11.deps.json
+E:\PROGRAMAREA\GIT\lesson1\task_11\bin\Debug\net8.0\task_11.runtimeconfig.json
+E:\PROGRAMAREA\GIT\lesson1\task_11\bin\Debug\net8.0\task_11.dll
+E:\PROGRAMAREA\GIT\lesson1\task_11\bin\Debug\net8.0\task_11.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.AssemblyInfoInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.AssemblyInfo.cs
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.csproj.CoreCompileInputs.cache
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.sourcelink.json
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.dll
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\refint\task_11.dll
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.pdb
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\task_11.genruntimeconfig.cache
+E:\PROGRAMAREA\GIT\lesson1\task_11\obj\Debug\net8.0\ref\task_11.dll
